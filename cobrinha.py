@@ -1,3 +1,5 @@
+##em andamento
+
 import pygame
 import pygame.locals
 from random import randint
